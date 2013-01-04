@@ -1,4 +1,4 @@
-MyFirst
+MyFirstAndroidApp
 =======
 
-This is my first repository descriotion
+This repository having a simple android app that i have created while i learn how to develop first Android application
